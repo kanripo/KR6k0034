@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:42:26.768034
+#+DATE: 2015-08-30 20:42:31.403568
 #+TITLE: 根本說一切有部百一羯磨
 #+PROPERTY: CBETA_ID T24n1453
 #+PROPERTY: ID KR6k0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1453
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0034_T_000-0455c>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0034_T_004-0469c> 
 #+PROPERTY: JUAN 4
 ¶
-
- 《根本說一切有部百一羯磨》¶
+《根本說一切有部百一羯磨》¶
 卷第四¶
 ¶
 三藏法師義淨奉　制譯¶
 
-:PROPERTIES:
-:head: 褒灑陀一切僧伽有罪單白
-:END:
-¶
+褒灑陀一切僧伽有罪單白¶
 
 若十五日褒灑陀時。一切僧伽悉皆有犯。然¶
 無一人能向餘住處。對清淨苾芻如法說悔。¶

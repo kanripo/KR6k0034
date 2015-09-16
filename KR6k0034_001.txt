@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:42:26.685531
+#+DATE: 2015-08-30 20:42:31.318198
 #+TITLE: 根本說一切有部百一羯磨
 #+PROPERTY: CBETA_ID T24n1453
 #+PROPERTY: ID KR6k0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1453
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0034_T_000-0455c>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0034_T_001-0455c> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1453¶
-
- 《根本說一切有部百一羯磨》¶
+No. 1453¶
+《根本說一切有部百一羯磨》¶
 卷第一¶
 ¶
 三藏法師義淨奉　制譯¶
@@ -186,7 +185,7 @@ No.1453¶
 乾燥暗風癲狂。形無血色。噎噦嘔逆。諸痔¶
 痳癧瘇脚吐血癰痤下。痢壯熱脇痛。骨節¶
 煩疼。及諸瘧病風黃痰癊。總集三病。常熱病¶
-鬼病。聾盲瘖瘂短小𤼣躄。支節不具。汝無¶
+鬼病。聾盲瘖瘂短小[病-丙+戀]躄。支節不具。汝無¶
 如是諸病及餘病不。答言無。汝某甲聽。如我¶
 今於屏處問汝。然諸苾芻於大眾中。亦當問¶
 汝。汝於彼處以無畏心。若有言有。若無言無。¶
